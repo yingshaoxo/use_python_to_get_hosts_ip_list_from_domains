@@ -1,4 +1,5 @@
 domains = [
+"google.com",
 "api.binance.com"
 ]
 
